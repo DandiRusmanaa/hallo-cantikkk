@@ -2,8 +2,8 @@
 const funnyQuotes = [
     "aku mungkin nggak sempurna, tapi akuu selalu berusahaa jadi alasan kamuu tersenyumm setiap harii, maafin aku ya, sayangggggggg 😊",
     "kalau kamuu cemebrutt, duniaaa akuu ikut sepii karnaa senyum kamu itu adalahh cahayaa dalam hidupp akuu 🥰",
-    "kamuuu tauu ngga kenapaa akuu selalu pengenn bawaa kamuu kemanapun akuu pergi? karnaa kamuu adalahh bagiann palingg terindahh nyaa sayanggggggggg😘",
-    "kamuuu tuhh bagaikann kompass dalam hidupp akuu, tanpaaa kamuuu akuu bagaikann hilangg arahann dalam hidupku 😘",
+    "kamuuu tauu ngga kenapaa akuu selalu pengenn bawaa kamuu kemanapun akuu pergii, karnaa kamuu adalahh bagiann palingg terindahh nyaa sayanggggggggg😘",
+    "kamuuu tuhh bagaikann kompass dalam hidupp akuu, tanpaaa kamuuu akuu bagaikann hilangg arahhh dalam hidupku 😘",
     "kamuu akann selaluuu jadiii perempuann yg selaluu adaa di sampingg akuuu, karnaa akuu yakinn kamuu adalahh tulangg rusukk yg di ciptakann buatt akuuu 🥰",
     "kamuu bagaikann edelweis di puncakk gunung, selaluuu cantikkk dan spesial buatt akuuu sayangggggggg 🌸",
     "cintaakuu samaa kamuu bagaikann bintang di langitt, selaluuu bersinar walau di kegelapan malamh 🌟",
